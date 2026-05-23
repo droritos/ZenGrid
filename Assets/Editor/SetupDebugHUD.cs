@@ -8,7 +8,7 @@ namespace ZenGrid.Editor
 {
     public static class SetupDebugHUD
     {
-        [MenuItem("ZenGrid/Setup/Create Debug HUD")]
+        [MenuItem("ShortcutTools/Create Debug HUD %#d")]
         public static void CreateHUD()
         {
             // 1. Create Canvas if needed

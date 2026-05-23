@@ -13,7 +13,7 @@ using UnityEditor.Audio;
 /// </summary>
 public class SetupAudioEditor : EditorWindow
 {
-    [MenuItem("ZenGrid/Setup Audio")]
+    [MenuItem("ShortcutTools/Setup Audio %#a")]
     public static void Run()
     {
         // ── 1. Audio Mixer ──────────────────────────────────────────────
